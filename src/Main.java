@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         Car car = new Car();
 
-        car.setBrand("Audi");
+        car. setBrand("Audi");
         car.setModel("R8 eTRON");
         System.out.println("brand = " + car.getBrand());
         System.out.println("model = " + car.getModel());
